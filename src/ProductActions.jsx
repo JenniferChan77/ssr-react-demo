@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 export default function ProductActions({ productId, price }) {
   const [qty, setQty] = useState(0);

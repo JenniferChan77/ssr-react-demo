@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 export default function Reviews({ productId }) {
   const [reviews, setReviews] = useState(null); // null = initial loading

@@ -1,4 +1,3 @@
-import React from "react";
 import ProductActions from "./ProductActions.jsx";
 import ProductCore from "./ProductCore.jsx";
 import Reviews from "./Reviews.jsx";
